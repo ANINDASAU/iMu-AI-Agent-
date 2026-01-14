@@ -1,6 +1,12 @@
-# 🎓 University Assistant - AI-Powered Multi-Agent System
+# 🎓 Intelligent University Management for Students - AI-Powered Multi-Agent System
 
 > An intelligent student query management system that routes student questions to the right university department using AI-powered classification and automated Relay.app workflows.
+
+- **Link1**: - https://imu-multi-ai-agent.vercel.app/
+- **Link2**: - https://imu-multi-ai-agent-git-main-anindas-projects-a3531d1c.vercel.app/
+- **Link3**: - https://imu-multi-ai-agent-6dg0oknwg-anindas-projects-a3531d1c.vercel.app/
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.128-green)
